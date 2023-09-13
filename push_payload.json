@@ -1,0 +1,16 @@
+{
+  "aps": {
+      "alert" : {
+            "title" : "MG Live Activity",
+            "subtitle" : "A push notification update",
+            "body" : "Goal scored!"
+        },
+      "timestamp": 1694375148,
+      "event": "update",
+      "content-state": {
+        "homeTeamScore": 1,
+        "awayTeamScore": 2,
+        "lastEvent": "Goal scored!"
+    },
+  }
+}

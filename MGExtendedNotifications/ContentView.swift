@@ -9,11 +9,12 @@ import SwiftUI
 
 struct ContentView: View {
     var body: some View {
+        let center = UNUserNotificationCenter.current()
         VStack {
-            Image(systemName: "globe")
-                .imageScale(.large)
-                .foregroundColor(.accentColor)
-            Text("Hello, world!")
+            Text("PUSH NOTIFICATION CONTENT EXTENSION")
+                    .font(.headline)
+            Spacer()
+            
         }
         .padding()
     }
