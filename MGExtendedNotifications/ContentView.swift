@@ -9,7 +9,6 @@ import SwiftUI
 
 struct ContentView: View {
     var body: some View {
-        let center = UNUserNotificationCenter.current()
         VStack {
             Text("PUSH NOTIFICATION CONTENT EXTENSION")
                     .font(.headline)
