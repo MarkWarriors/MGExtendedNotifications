@@ -2,7 +2,7 @@
   "aps": {
       "category": "customNotificationIdentifier",
       "alert" : {
-            "title" : "MGExtendedNotification",
+            "title" : "EXTENDED NOTIFICATION",
             "subtitle" : "Subtitle of the push payload",
             "body" : "This is the text inside the body of the payload. This is displayed below subtitle and above the footer."
         },
